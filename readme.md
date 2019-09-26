@@ -1,6 +1,6 @@
-# T. Artificial Inteligence 
+# T. Artificial Intelligence 
 
-## This repository was create for contribute the artificial inteligence using unsupervised learn. Thanks for the teacher PhD Bruno Brandoli for contributing for this developer.
+## This repository was create for contribute the artificial Intelligence using unsupervised learn. Thanks for the teacher PhD Bruno Brandoli for contributing for this developer.
 
 
 ###### In this repository have two algorithm for unsupervised learning denominated: Kmeans and DBscan.
